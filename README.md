@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tran Thi Tuyet Ngan
 
 📍 Da Nang, Viet Nam  
-🎓 E-commerce Graduate | Aspiring Data Analyst  
+🎓 E-commerce Graduate | Aspiring Data Enthusiast  
 
 Analytically driven E-commerce graduate with hands-on experience in data analysis and business-focused projects.  
 Proficient in **SQL, Power BI, and Excel**, with **basic Python skills** for data preprocessing and statistical analysis.  
